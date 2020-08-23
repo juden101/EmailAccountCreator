@@ -40,3 +40,5 @@ Detailed Design
 4.4 use the indexof method to separate the strings by the space in the word.<br />
 4.5 create a variable to hold the combined strings. <br />
 4.6 print out the new string with the users name and email @google.com.<br />
+
+[![Run on Repl.it](https://repl.it/badge/github/juden101/EmailAccountCreator)](https://repl.it/github/juden101/EmailAccountCreator)
